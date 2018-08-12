@@ -20,7 +20,7 @@ Right now, each tab of the Render Controls dialog gets its own page which detail
 
 **Why are you doing this when there's official documentation already on the Chunky website?**
 
-Because the official documentation is extremely outdated, and frankly, totally sucks due to providing no exambles.
+Because the official documentation is extremely outdated, incomplete, and frankly, ~~totally sucks~~ is borderline useless due to having almost no examples.
 
 **Do you believe in giraffes?**
 
