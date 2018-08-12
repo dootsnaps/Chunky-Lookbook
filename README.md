@@ -19,6 +19,24 @@
 
   This tab contains the lighting settings, including the intensity of the sky, emitter, and sun lights. You can also toggle emitter and sunlight here, and change the azimuth, alititude, and color of the sunlight.
   
+  ### Sky light:
+  
+  Here is our refenece picture, with sky light set to the default of 1.00:
+  
+  <img src="https://i.imgur.com/xWXwVh2.png"  class="inline"/>
+  
+  With sky light set to the lowest setting (0.01):
+  
+  <img src="https://i.imgur.com/m0Q8SrJ.png"  class="inline"/>
+  
+  Notice how the shadows are quite a bit darker, because they are receiving less light.
+  
+  Finally, as we increase the sky light, everything will recieve more light:
+  
+  <img src="https://i.imgur.com/mUv9mnL.png"  class="inline"/>
+  
+  
+  
 ## Tab 3: Sky and Fog
 
   This tab allows you to set the sky mode, cloud settings, and fog settings.
