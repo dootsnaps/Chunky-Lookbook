@@ -22,9 +22,11 @@ Todo: finish the main guide, provide example scenes for download, maybe videos?
   
 ## Tab 2: Lighting
 
-  This tab contains the lighting settings, including the intensity of the sky, emitter, and sun lights. You can also toggle emitter and sunlight here, and change the azimuth, alititude, and color of the sunlight.
+  This tab contains the lighting settings, including the intensity of the sky, emitter, and sun lights. You can also toggle emitter and sunlight here, and change the azimuth, alititude, and color of the sunlight. Here's a screenie:
   
-  ### Sky light:
+  <img src="https://i.imgur.com/uEKiKp0.png"  class="inline"/>
+  
+### Sky light:
   
   Here is our reference picture, with sky light set to the default of 1.00:
   
@@ -40,11 +42,11 @@ Todo: finish the main guide, provide example scenes for download, maybe videos?
   
   <img src="https://i.imgur.com/mUv9mnL.png"  class="inline"/>
   
-  ### Emitters:
+### Emitters:
   
   *wip*
   
-  ### Sunlight:
+### Sunlight:
   
   Reference: (sunlight enabled, intensity = 1.25, altitude = 40, azimuth = -301.283, sun color is white)
   
@@ -94,7 +96,55 @@ Todo: finish the main guide, provide example scenes for download, maybe videos?
   
 ## Tab 3: Sky and Fog
 
-  This tab allows you to set the sky mode, cloud settings, and fog settings.
+  This tab allows you to set the sky mode, cloud settings, and fog settings:
+  
+  <img src="https://i.imgur.com/obUFgN9.png"  class="inline"/>
+  
+### Sky Mode  
+
+  The first set of settings is for Sky Mode. The available options are seen is this drop-down menu:
+  
+  <img src="https://i.imgur.com/6wAvimX.png"  class="inline"/>
+  
+  Here is our reference picture, with the default settings for sky mode (simulated, horizon offset = 0.1):
+  
+  <img src="https://i.imgur.com/iu1PTt7.png"  class="inline"/>
+  
+  The horizon offset changes how high or low the simulated horizon appears in the sky. Setting it to zero raises the horizon, giving us a lighter color at the physical horizon:
+  
+  <img src="https://i.imgur.com/IZhmZtM.png"  class="inline"/>
+  
+  Raising it to 1 lowers the simulated horizon, giving us a deep blue color at the physical horizon:
+  
+  <img src="https://i.imgur.com/fLhZTCI.png"  class="inline"/>
+  
+  The next mode is Solid Color. We can set any color we want. It is important to note, at this point, that whatever mode you choose, the color and brightness of the rendered sky affects the "sky light" from the previous tab, as seen here when we choose a purple sky:
+  
+  <img src="https://i.imgur.com/fl6fI15.png"  class="inline"/>
+  
+  Up next is Color Gradient. You can choose from the available presets or make your own using the given dialog:
+  
+  <img src="https://i.imgur.com/goEceor.png"  class="inline"/>
+  
+  And the result:
+  
+  <img src="https://i.imgur.com/BoMkLSt.png"  class="inline"/>
+  
+  Next we have the two skymap modes, panoramic and spherical.
+  
+  <img src="https://i.imgur.com/ooKEf8t.png"  class="inline"/><img src="https://i.imgur.com/L9g35Xx.png"  class="inline"/>
+ 
+  First, load your skymap of choice using the "Load skymap" button. Here, I've aligned the rendered sun with the sun in the skymap using the "Skymap rotation" setting. In general, you'll want to do this so that the shadows in your scene and the shadows in your skymap are coherent, even if the sun isn't actually visible in your render: 
+  
+  <img src="https://i.imgur.com/uWAvPoE.png"  class="inline"/>
+  
+  
+  
+  
+  
+  
+  
+  
   
 ## Tab 4: Water
 
