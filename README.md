@@ -2,6 +2,8 @@
 
 *Currently WIP!*
 
+To contribute, submit a pull request. I'll take anything that isn't already covered in this guide so long as it's not total shite.
+
 
 ## Tab 1: General
 
