@@ -138,9 +138,17 @@ Todo: finish the main guide, provide example scenes for download, maybe videos?
   
   <img src="https://i.imgur.com/uWAvPoE.png"  class="inline"/>
   
+  For Skybox mode, you'll need to load (up to) six textures which will each make up a face of the skybox cube:
   
+  <img src="https://i.imgur.com/6xuubmI.png"  class="inline"/>
   
+  Here I've chosen six random pictures. With this mode, the sky's the limit!:
   
+  <img src="https://i.imgur.com/CZzwaUF.png"  class="inline"/><img src="https://i.imgur.com/1MV6tGm.png"  class="inline"/>
+  
+  The last mode is Black. Notice that this completely disables the Sky Light, making everything quite dark except for what's lit up by sunlight:
+  
+  <img src="https://i.imgur.com/aLGjTq8.png"  class="inline"/>
   
   
   
