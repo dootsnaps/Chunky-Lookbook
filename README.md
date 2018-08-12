@@ -8,21 +8,46 @@ This repository is maintained by acm321, AKA /u/SenpaiPleaseNoticeMe on Reddit.
 
 *Currently WIP!*
 
+### FAQ:
+
+**How can I contribute to this project?**
+
 To contribute, submit a pull request. I'll take anything that isn't already covered in this guide so long as it's not total shite.
 
-Right now, everything is just on one page. I ~~may switch~~ am currently switching the format to multiple pages. ~~in the future (one per tab, perhaps).~~
+**How is this guide formatted?**
 
-Todo: finish the main guide, provide example scenes for download, maybe videos?
+Right now, each tab of the Render Controls dialog gets its own page which details the settings therein. This could change in the future if people want it to.
 
-## [Tab 1: General](General.md)
+**Why are you doing this when there's official documentation already on the Chunky website?**
 
-## [Tab 2: Lighting](Lighting.md)
+Because the official documentation is extremely outdated, and frankly, totally sucks due to providing no exambles.
+
+**Do you believe in giraffes?**
+
+No. How could such stupidly long horses even exist? Ridiculous, if you ask me.
+
+
+### ToDo:
+* Finish the main guide
+
+* Provide example scenes/settings for download
+
+* ???
+
+* Profit!
+
+## Index:
+
+Clicl one of the links below to see the documentation for each tab!
+
+### [Tab 1: General](General.md)
+
+### [Tab 2: Lighting](Lighting.md)
   
-## [Tab 3: Sky and Fog](Sky-fog.md)  
+### [Tab 3: Sky and Fog](Sky-fog.md)  
 
-  
-## Tab 4: Water
+### Tab 4: Water
 
   The Water tab allows you to set water visibility (how many blocks deep can you see), opacity (how "thick" does it look), height, and color. You can also toggle Still Water (no waves) and Water World mode (surrounds the scene with an infinite ocean).
   
-## Tab 5: Camera
+### Tab 5: Camera
