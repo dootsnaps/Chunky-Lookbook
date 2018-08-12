@@ -150,9 +150,46 @@ Todo: finish the main guide, provide example scenes for download, maybe videos?
   
   <img src="https://i.imgur.com/aLGjTq8.png"  class="inline"/>
   
+### Transparent Sky:
+
+  Enabling this keeps all the sky lighting from the selected sky mode, but makes the actual sky transparent (black in this picture):
   
+  <img src="https://i.imgur.com/Y6p8uGy.png"  class="inline"/>
+
+### Clouds:
+  Clouds look similar to the in-game Minecraft clouds, and cast shadows when struck by sunlight. Here I've made them smaller than the default and raised them up to a y-level of 250. The X and Z settings simply offset the cloud pattern in their respective directions:
   
+  <img src="https://i.imgur.com/1kUQe5G.png"  class="inline"/>
   
+  It should be noted that you can type in numbers into the box which exceed the bounds of the sliders, enabling you to put the clouds at, for example, a y-level of 10000 blocks:
+
+  <img src="https://i.imgur.com/8qS5LaJ.png"  class="inline"/>
+  
+### Fog:
+
+  There are three settings for fog: density, sky-fog blending, and color.
+
+  Setting the fog density to a low value, such as 0.01, gives a nice haze effect:
+
+  <img src="https://i.imgur.com/4fMXfwE.png"  class="inline"/>
+  
+  A higher number (0.05) results in thicker fog:
+  
+  <img src="https://i.imgur.com/vcoJbwv.png"  class="inline"/>
+  
+  You can use high fog density (0.2) to generate a crepuscular ray effect:
+  
+  <img src="https://i.imgur.com/Zhv30VL.png"  class="inline"/>
+  
+  The sky-fog blending level decides how much the fog should blend into the sky at the horizon. Setting it to 0 results in a  sharp disconnect between the sky and horizon:
+  
+  <img src="https://i.imgur.com/M2vDOSL.png"  class="inline"/>
+  
+  Fog color can be set to whatever you want. Darker colors can produce very interesting effects:
+  
+  <img src="https://i.imgur.com/Geepnri.png"  class="inline"/>
+  
+ 
   
 ## Tab 4: Water
 
