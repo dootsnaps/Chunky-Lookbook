@@ -1,6 +1,6 @@
 ## Welcome to the Chunky Lookbook
 
-Chunky is made by llbit. Here is the [main Chunky website](http://chunky.llbit.se/)
+Chunky is made by llbit (praise be unto Him). Here is the [main Chunky website](http://chunky.llbit.se/)
 
 There is also a [Chunky subreddit](https://www.reddit.com/r/chunky)
 
