@@ -30,7 +30,7 @@ No. How could such stupidly long horses even exist? Ridiculous, if you ask me.
 ### ToDo:
 * Finish the main guide
 
-* Provide example scenes/settings for download
+* Add a gallery of example renders with their settings available for download 
 
 * ???
 
