@@ -1,6 +1,10 @@
 ## Welcome to the Chunky Lookbook
 
-[Chunky Website](http://chunky.llbit.se/)
+Chunky is made by llbit. Here is the [main Chunky website](http://chunky.llbit.se/)
+
+There is also a [Chunky subreddit](https://www.reddit.com/r/chunky)
+
+This repository is maintained by acm321, AKA /u/SenpaiPleaseNoticeMe on Reddit.
 
 *Currently WIP!*
 
