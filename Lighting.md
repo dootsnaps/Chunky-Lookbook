@@ -1,6 +1,6 @@
 ## Tab 2: Lighting
 
-  This tab contains the lighting settings, including the intensity of the sky, emitter, and sun lights. You can also toggle emitter and sunlight here, and change the azimuth, alititude, and color of the sunlight. Here's a screenie:
+  This tab contains the lighting settings, including the intensity of the sky, emitter, and sun lights. You can also toggle emitters and sunlight here, and change the azimuth, alititude, and color of the sunlight. Here's a screenie:
   
   <img src="https://i.imgur.com/uEKiKp0.png"  class="inline"/>
   
