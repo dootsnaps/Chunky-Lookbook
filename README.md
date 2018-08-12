@@ -10,7 +10,7 @@ Todo: finish the main guide, provide example scenes for download, maybe videos?
 
 ## [Tab 1: General](General.md)
 
-## [Tab 2: Lighting](Ligthing.md)
+## [Tab 2: Lighting](Lighting.md)
   
   
 ## Tab 3: Sky and Fog
