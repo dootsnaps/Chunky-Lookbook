@@ -6,6 +6,8 @@ To contribute, submit a pull request. I'll take anything that isn't already cove
 
 Right now, everything is just on one page. I may switch the format to multiple pages in the future (one per tab, perhaps).
 
+Todo: finish the main guide, provide example scenes for download, maybe videos?
+
 ## Tab 1: General
 
   The first tab of the render controls dialog is the "General" tab. It looks like this:
