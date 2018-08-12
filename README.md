@@ -34,7 +34,7 @@ No. How could such stupidly long horses even exist? Ridiculous, if you ask me.
 
 * ???
 
-* Profit!
+* ~~Profit!~~ Seize the means of production
 
 ## Index:
 
