@@ -18,6 +18,6 @@ The index of refraction determines how transparent blocks distort light passing 
 
 <img src="https://i.imgur.com/UEGaqys.png">
 
-Here's a higher IoR. As the [critical angle](https://en.wikipedia.org/wiki/Total_internal_reflection#Critical_angle) gets smaller and smaller, the amount of light reflected off the air/water boundary is increased:
+Here's a higher IoR. As the difference in IoR between air and water increases, the [critical angle](https://en.wikipedia.org/wiki/Total_internal_reflection#Critical_angle) gets smaller and smaller, and the amount of light reflected off the air/water boundary is increased:
 
 <img src="https://i.imgur.com/thXGZSp.png">
