@@ -46,6 +46,6 @@ Clicl one of the links below to see the documentation for each tab!
   
 ### [Tab 3: Sky and Fog](Sky-fog.md)  
 
-### [Tab 3: Water](Water.md)  
+### [Tab 4: Water](Water.md)  
   
 ### Tab 5: Camera
