@@ -2,7 +2,7 @@
 
 This tab allows you to change the material properties of any material you want. 
 
-Emittance determines how much light each block emits (the color emitted depends on what water color you set). Here I've made water into an emitter:
+Emittance determines how much light each block emits (the color emitted depends on the color of the block). Here I've made water into an emitter:
 
 <img src="https://i.imgur.com/uciPSpe.png">
 
