@@ -46,8 +46,6 @@ Clicl one of the links below to see the documentation for each tab!
   
 ### [Tab 3: Sky and Fog](Sky-fog.md)  
 
-### Tab 4: Water
-
-  The Water tab allows you to set water visibility (how many blocks deep can you see), opacity (how "thick" does it look), height, and color. You can also toggle Still Water (no waves) and Water World mode (surrounds the scene with an infinite ocean).
+### [Tab 3: Water](Water.md)  
   
 ### Tab 5: Camera
