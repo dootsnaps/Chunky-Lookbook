@@ -48,4 +48,4 @@ Clicl one of the links below to see the documentation for each tab!
 
 ### [Tab 4: Water](Water.md)  
   
-### Tab 5: Camera
+### [Tab 5: Camera](Camera.md)
