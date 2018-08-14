@@ -21,3 +21,14 @@ The index of refraction determines how transparent blocks distort light passing 
 Here's a higher IoR. As the difference in IoR between air and water increases, the [critical angle](https://en.wikipedia.org/wiki/Total_internal_reflection#Critical_angle) gets smaller and smaller, and the amount of light reflected off the air/water boundary is increased:
 
 <img src="https://i.imgur.com/thXGZSp.png">
+
+You can use this setting to easily change the size of [Snell's Window](https://en.wikipedia.org/wiki/Snell%27s_window):
+
+Water IoR = 1.5:
+
+<img src="https://i.imgur.com/BaphzcW.png">
+
+Water IoR ~= 3.0:
+
+<img src="https://i.imgur.com/HKFOkMv.png">
+
