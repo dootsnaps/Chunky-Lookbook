@@ -2,6 +2,6 @@
 
 This page contains some example renders with their settings available for download.
 
-*Example 1* - [Settings](ex1Settings)
+*Example 1* - [Settings](Examples/ex1.json)
 
-<img src="ex1Image">
+<img src="https://i.imgur.com/5UvXRbH.png">
