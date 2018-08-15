@@ -38,7 +38,7 @@ No. How could such stupidly long horses even exist? Ridiculous, if you ask me.
 
 ## Index:
 
-Clicl one of the links below to see the documentation for each tab!
+Click one of the links below to see the documentation for each tab!
 
 ### [Tab 1: General](General.md)
 
