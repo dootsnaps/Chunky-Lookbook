@@ -38,6 +38,8 @@ No. How could such stupidly long horses even exist? Ridiculous, if you ask me.
 
 ## Index:
 
+### [Example Renders with Settings](Examples.md)
+
 Click one of the links below to see the documentation for each tab!
 
 ### [Tab 1: General](General.md)
