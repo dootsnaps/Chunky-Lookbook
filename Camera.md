@@ -84,3 +84,7 @@ Here is a low DoF at two different subject distances; one is close to the camera
 
 <img src="https://i.imgur.com/5wHhgsh.png">
 
+Here is an animation (courtesy of /u/Sajano90) showing the effect of the subject distance slider:
+
+![animation](distance.gif?raw=true)
+
