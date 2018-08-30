@@ -24,6 +24,10 @@ This tab controls... water.
   
   <img src="https://i.imgur.com/yt8ighO.png" class="inline">
   
+  Here is an animation from /u/Sajano90:
+  
+  ![visibility gif](visibility.gif?raw=true)
+  
 ### Water Opacity:
 
   This controls how transparent the water is. I've chosen a different color to make the effect more visible. The default setting is 0.42:
@@ -37,6 +41,10 @@ This tab controls... water.
   And finally at the maximum setting of 1:
   
   <img src="https://i.imgur.com/pkvsduy.png" class="inline">
+  
+  Here's another animation, showing the opacity changing:
+  
+  ![opacity gif](opacity.gif?raw=true)
   
 ### Water World Mode
 
