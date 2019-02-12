@@ -26,6 +26,11 @@ Because the official documentation is extremely outdated, incomplete, and frankl
 
 No. How could such stupidly long horses even exist? Ridiculous, if you ask me.
 
+### Video Accompaniment Series:
+
+I've made several videos to go along with this guide and provide some more detailed insight into how to use certain settings.
+
+They are available on [my Youtube channel](https://www.youtube.com/channel/UCvvmjXooVfhpnwRljAuMlgA).
 
 ### ToDo:
 * Finish the main guide
